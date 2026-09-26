@@ -21,16 +21,20 @@ As an undergraduate at Tokai University, I also conduct research in **quantum th
   - Includes 5 accepted contributions awaiting presentation
 
 *As of September 2026.*
-**Yoshinori57/Yoshinori57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Selected Publications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Metacognition of ChatGPT in confidence judgements**  
+  Yoshizawa et al. (2026). *Frontiers in Artificial Intelligence*.  
+  [Paper](https://doi.org/10.3389/frai.2026.1694192)
+
+- **Metacognitive Closure and Consciousness in Large Language Models**  
+  Yoshizawa & Mogi (2026). *Proceedings of the AAAI Symposium Series*.  
+  [Paper](https://doi.org/10.1609/aaaiss.v8i1.42569)
+
+## Links & Contact
+
+- [Personal Website](https://sites.google.com/view/shunyoshizawa)
+- [Google Scholar](https://scholar.google.com/citations?user=Wk9qUjcAAAAJ)
+- [CV](https://docs.google.com/document/d/1C2Q7B0ofm3rxuMms8rTrNL33mVhOKNh-s1sdIr-MPjE/edit?usp=sharing)
+- Email: shunyoshizawa57@gmail.com
