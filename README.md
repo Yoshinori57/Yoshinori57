@@ -1,18 +1,10 @@
 # Hi there 👋
 
-I work on AI alignment at Sony Computer Science Laboratories(SonyCSL). My research focuses on **Model Psychology**, **Artificial (LLM) Metacognition** and **Machine Consciousness**.
+I work on AI alignment at [Sony Computer Science Laboratories(SonyCSL)](https://www.sonycsl.co.jp/en/). My research focuses on **Model Psychology**, **Artificial (LLM) Metacognition** and **Machine Consciousness**.
 
 I also lead the **Metacognition & Hallucination Team** at [Shiba AI](https://www.shiba-ai.jp/), a Tokyo-based organization working on AI safety, alignment, and governance.
 
-As an undergraduate at Tokai University, I also conduct research in **quantum thermodynamics** under the supervision of Dr. Hideki Iyoda.
-
-## Research Interests
-
-- **Model Psychology**: Understanding the cognitive and behavioral properties of AI models
-- **Artificial Metacognition**: Investigating metacognition in LLMs
-- **Machine Consciousness**
-- **AI Alignment and Safety**
-- **Quantum Thermodynamics**
+As an undergraduate at Tokai University, I also conduct research in **quantum thermodynamics** under the supervision of [Dr. Eiki Iyoda](https://sites.google.com/site/iyodaeiki/home?authuser=0).
 
 ## Publications & Presentations
 
