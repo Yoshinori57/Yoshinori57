@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I work on AI alignment at Sony Computer Science Laboratories(SonyCSL). My research focuses on **Model Psychology**, **Artificial Metacognition**—particularly metacognition in large language models—and **Machine Consciousness**.
+I work on AI alignment at Sony Computer Science Laboratories(SonyCSL). My research focuses on **Model Psychology**, **Artificial Metacognition** particularly metacognition in large language models and **Machine Consciousness**.
 
 I also lead the **Metacognition & Hallucination Team** at [Shiba AI](https://www.shiba-ai.jp/), a Tokyo-based organization working on AI safety, alignment, and governance.
 
